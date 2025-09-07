@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\bin\Release\Starfield.exe.config
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\bin\Release\Starfield.exe
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\bin\Release\Starfield.pdb
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.Stars.resources
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.Parameters.resources
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.Properties.Resources.resources
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.exe
+C:\Users\Admin\source\repos\Starfield SIMULATION\Starfield\obj\Release\Starfield.pdb
